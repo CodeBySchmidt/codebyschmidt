@@ -5,14 +5,27 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyschmidt&layout=compact&count_private=true&theme=dark" />
 </a>
 
-<!-- GitHub Stats Card für allgemeine GitHub-Statistiken -->
+<!-- GitHub Stats Card -->
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=codebyschmidt&show_icons=true&theme=dark" />
 </a>
 
-<!-- Shields.io Badge für die meistverwendete Sprache in einem spezifischen Repository -->
+<!-- GitHub Streak Stats -->
 <a href="#">
-  <img align="center" src="https://img.shields.io/github/languages/top/codebyschmidt/BV3-WEB3_Projekt" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebyschmidt&theme=dark" />
+</a>
+
+<!-- GitHub Trophies -->
+<a href="#">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=codebyschmidt&theme=darkhub" />
+</a>
+
+<!-- Contribution Snake -->
+![GitHub Contribution Snake](https://github.com/codebyschmidt/codebyschmidt/blob/output/github-contribution-grid-snake.svg)
+
+<!-- Profile Views -->
+<a href="#">
+  <img align="center" src="https://komarev.com/ghpvc/?username=codebyschmidt&color=blue&style=flat-square&label=Profile+Views" />
 </a>
 
 <!-- **CodeBySchmidt/codebyschmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
