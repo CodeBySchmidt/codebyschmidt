@@ -35,25 +35,3 @@ Ich bin ständig dabei, neue Fähigkeiten zu entwickeln und mein Wissen zu erwei
 - **E-Mail**: [anneschmidt.privat@gmail.com](mailto:anneschmidt.privat@gmail.com)
   <!--
   **LinkedIn**: [Anne Schmidt](https://www.linkedin.com/in/anne-schmidt) -->
-
----
-
-## 💡 Ein paar interessante Fakten
-
-- Ich liebe es, kreative Lösungen für komplexe Probleme zu finden.
-- In meiner Freizeit beschäftige ich mich gerne mit neuen Technologien.
-- Ich bin begeistert von der Idee, Technologie mit Kunst und Design zu verbinden.
-
----
-
-## 📈 GitHub-Statistiken
-
-![Anne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebyschmidt&show_icons=true&theme=dark)
-
----
-
-## 🌟 Vielen Dank fürs Vorbeischauen!
-
-Ich freue mich darauf, meine Projekte und Ideen hier auf GitHub mit Ihnen zu teilen. Zögern Sie nicht, sich mit mir zu vernetzen oder mir eine Nachricht zu senden, wenn Sie an einer Zusammenarbeit interessiert sind!
-
----
