@@ -1,10 +1,6 @@
 ## Hi there 👋
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codebyschmidt&count_private=true&theme=dark" />
-</a>
-
-<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyschmidt&layout=compact&count_private=true&theme=dark" />
 </a>
 <!--
