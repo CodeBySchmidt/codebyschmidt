@@ -1,24 +1,25 @@
 ## Hi there 👋
 
+<!-- GitHub Streak Stats -->
+<a href="#">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebyschmidt&theme=dark" />
+</a>
+
 <!-- GitHub Readme Stats für die meistverwendeten Sprachen -->
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyschmidt&layout=compact&count_private=true&theme=dark" />
 </a>
+
 
 <!-- GitHub Stats Card 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=codebyschmidt&show_icons=true&theme=dark" />
 </a>-->
 
-<!-- GitHub Streak Stats -->
-<a href="#">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebyschmidt&theme=dark" />
-</a>
-
-<!-- GitHub Trophies -->
+<!-- GitHub Trophies
 <a href="#">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=codebyschmidt&theme=darkhub" />
-</a>
+</a> -->
 
 <!-- Profile Views -->
 <a href="#">
