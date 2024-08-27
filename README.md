@@ -1,5 +1,11 @@
 ## Hi there 👋
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codebyschmidt&count_private=true&theme=dark" />
+</a>
 
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyschmidt&layout=compact&count_private=true&theme=dark" />
+</a>
 <!--
 **CodeBySchmidt/codebyschmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
