@@ -12,9 +12,9 @@ Ich bin Anne Schmidt, eine engagierte Studentin der Medientechnologie an der TH 
 
 Hier sind einige der Programmiersprachen und Technologien, mit denen ich arbeite:
 
-- **Programmiersprachen**: Python, Java, HTML, CSS, JavaScript
-- **Frameworks & Libraries**: React, Flask, OpenCV
-- **Weitere Tools**: Git, GitHub, VS Code
+- **Programmiersprachen**: Python, Java, HTML, CSS, JavaScript, C++
+- **Frameworks & Libraries**: React, Flask, OpenCV, QT
+- **Weitere Tools**: GitHub, VS Code, JetBrains
 
 ## 📂 Meine Projekte
 
